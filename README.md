@@ -19,5 +19,8 @@
 ### DELETE :/student/delete/{studentid}<br>
      Delete the student from the database with the student id
 
+### Postman Collection:- 
+     https://web.postman.co/workspace/My-Workspace~d32649ce-91e8-4144-8d44-7d3e8780d984/request/27931954-848fbc44-aa34-4bce-9025-5b04d71f0dba
+
    
 
